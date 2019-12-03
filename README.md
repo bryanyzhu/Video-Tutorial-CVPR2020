@@ -1,1 +1,1 @@
-# CVPR20-Video-Tutorial
+# Video-Tutorial
