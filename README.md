@@ -12,8 +12,8 @@ Agenda
 | Topic                                                     | Slides   | Notebook |
 |-----------------------------------------------------------|----------|----------|
 | Opening and tutorial setup                                |          |[link][01]|
-| A walk through on SOTA video methods                      |[link][10]|          |
-| Bag of tricks for training deep video models              |          |          |
+| A walk through on SOTA video methods                      |[link][10]|[link][11]|
+| Bag of tricks for training deep video models              |          |[link][21], [link][22], [link][23], [link][24]|
 | Decord: a fast video loader                               |          |[link][31]|
 | Neural architecture search in video                       |          |          |
 | Painless from research to deployment                      |          |[link][51], [link][52], [link][53]|
@@ -22,6 +22,11 @@ Agenda
 
 [01]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/00_setup/use_aws.ipynb
 [10]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/02_sota/video_understanding.pptx
+[11]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/02_sota/VideoActionRecognition.ipynb
+[21]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/03_train/finetune_custom.ipynb
+[22]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/03_train/feat_custom.ipynb
+[23]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/03_train/distributed_slowfast.ipynb
+[24]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/03_train/demo_custom.ipynb
 [31]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/04_decord/decord_loader.ipynb
 [51]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/06_deploy/TVMInference.ipynb
 [52]: https://github.com/bryanyzhu/Video-Tutorial/blob/master/06_deploy/cpp_inference.ipynb
