@@ -5,6 +5,15 @@ Abstract
 
 In this tutorial, we will present a comprehensive tutorial on video understanding with hands-on sessions. We provide coverage for 9 different types of video models (two-stream, TSN, TSM, C3D, I3D, Non-Local, SlowFast, R2+1D and SCSampler) on 6 widely adopted video datasets (UCF101, HMDB51, Kinetics, Something-Something-V2, ActivityNet and HACS). We will walk through the technical details of the state-of-the-art algorithms for video understanding, using human action recognition task as an illustrating example. We will provide step-by-step tutorials on how to reproduce SOTA video models, how to fine-tune a network on your own dataset, how to perform distributed training, how to extract spatiotemporal features from pre-trained deep video models, how to search the best network architecture for your use case, how to deploy your trained model to edge devices, etc.
 
+Highlights
+----------
+
+* We provide a general video dataloader (can handle both frame format and raw video). You can do training, fine-tuning, prediction and feature extraction without writing complicate code. Just prepare a text file containing the video information is enough.
+* We have more pre-trained models in our model zoo.
+* We provide training commands and logs to help you reproduce SOTA video models.
+* We support distributed training.
+* We support AutoML, in terms of both hyperparameter optimization and neural architecture seach.
+* We support easy deployment (by TVM) and model quantization (by Intel).
 
 Agenda
 ------
