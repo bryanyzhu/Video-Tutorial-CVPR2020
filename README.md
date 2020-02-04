@@ -1,4 +1,4 @@
-## A Comprehensive Tutorial on Video Modeling (Proposing)
+## A Comprehensive Tutorial on Video Modeling (CVPR 2020)
 
 Abstract
 --------
