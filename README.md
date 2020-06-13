@@ -1,6 +1,6 @@
 ## A Comprehensive Tutorial on Video Modeling (CVPR 2020)
 
-*Please check the official tutorial website for pre-recorded videos and slides. Thank you.*
+**Please check the [official tutorial website](https://cvpr20-video.mxnet.io) for pre-recorded videos and slides. Thank you.**
 
 Abstract
 --------
